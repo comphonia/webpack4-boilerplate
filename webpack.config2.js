@@ -1,6 +1,6 @@
 // uses code splitting 
 const path = require("path");
-const UglifyJSPlugin = require("uglifyjs-webpack-plugin") //npm i this
+const UglifyJSPlugin = require("uglifyjs-webpack-plugin") //npm i thi
 
 module.exports = {
     entry: {
